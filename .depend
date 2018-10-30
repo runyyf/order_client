@@ -1,0 +1,2 @@
+order_main.o: order_main.c order_socket.h order_main.h
+order_socket.o: order_socket.c order_socket.h
